@@ -1,0 +1,2 @@
+# jv-spring-transactions
+Following the official Spring guide to build a simple JDBC application wherein you make database operations transactional without having to write specialised JDBC code. Source: https://spring.io/guides/gs/managing-transactions/
